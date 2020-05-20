@@ -1,11 +1,8 @@
-# Project Title
+# StrikeBackCOVID19
 
-One Paragraph of project description goes here
+### App to contribute to the fight against # Covid19, through a solidarity network.
 
-This initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as
-I can no longer open that page as there are too many comments, I have
-moved it here.
+This app aims to integrate people in solidarity, uniting people who have needs with whom they can help. In the form of services or products.
 
 ## Summary
 
